@@ -1,0 +1,1 @@
+if (global.pause = false){y -= spd;}
