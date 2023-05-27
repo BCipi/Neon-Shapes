@@ -1,1 +1,0 @@
-if (global.pause = false){x += spd;}
